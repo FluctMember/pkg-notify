@@ -1,0 +1,10 @@
+{
+  "name": "acme",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-eslint": "^0.1.8"
+  }
+}
